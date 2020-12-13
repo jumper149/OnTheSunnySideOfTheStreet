@@ -60,7 +60,7 @@ lyricsB = \lyricmode {
   Can't you hear the
   pit -- ter and the pat -- ter of the
   rain -- drops tri -- pp -- ling down the
-  fi -- re es -- cape lat -- ter.
+  fi -- re es -- cape lad -- der.
 }
 
 \score {
